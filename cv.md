@@ -4,7 +4,7 @@
 - __Location:__ Kyrgyzstan, Bishkek
 - __Email:__ baktybeks@gmail.com
 - __GitHub:__ [baktybeks](https://github.com/baktybeks)
-- __Linkedin:__ [baktybeks](https://www.linkedin.com/in/baktybek-sariev/)
+- __Linkedin:__ [baktybek-sariev](https://www.linkedin.com/in/baktybek-sariev/)
 
 ## __About Me__
 I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.\
@@ -12,10 +12,12 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 
 ## __Skills__
 - HTML
-- CSS/SASS
-- JavaScript (React)
+- CSS/SASS 
+- JavaScript 
 - React JS, Redux
 - Git
+- MySQL
+- Bootstrap, MUI
 - Python (Basic)
 
 ## __Code Example__
